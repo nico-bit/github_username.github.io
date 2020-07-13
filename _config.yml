@@ -17,7 +17,7 @@ favicon: ^_^
 repository: github_username/github_username.github.io
 github_url: https://github.com/github_username
 url: https://github_username.github.io
-enforce_ssl:github_username.github.io
+enforce_ssl: anaixixi.top
 
 ## Gem
 plugins:
